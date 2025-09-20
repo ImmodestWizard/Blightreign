@@ -11,6 +11,7 @@
 - [Features](#features)  
 - [System Requirements](#system-requirements)  
 - [Installation Guide](#installation-guide)  
+- [Load Order Library](https://loadorderlibrary.com/lists/blightreign-2)  
 - [Credits & Thanks](#credits--thanks)
 
 ---
