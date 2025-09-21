@@ -1,6 +1,6 @@
 # Blightreign
 
-![Blightreign Banner](images/banner.png)
+![Blightreign Banner](images/newbanner.png)
 
 *Blightreign is a faithful overhaul designed to modernize **The Elder Scrolls III: Morrowind** while preserving its strange, alien atmosphere. It blends immersive audio, faithful visual updates, and expanded lands with subtle gameplay tweaks for a smoother yet authentic experience.*
 
