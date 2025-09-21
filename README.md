@@ -2,7 +2,7 @@
 
 ![Blightreign Banner](images/newbanner.png)
 
-*Blightreign is my love letter to Morrowind. It keeps the game’s weird, alien world intact while adding subtle improvements—better audio, updated visuals, and small gameplay tweaks. Vanilla at heart, just a little smoother.*
+*Blightreign is my love letter to Morrowind. It keeps the game’s weird, alien world intact while adding subtle improvements, like better audio, updated visuals and small gameplay tweaks. Vanilla at heart, just a little smoother.*
 
 ---
 
