@@ -29,18 +29,6 @@
 
 ---
 
-## System Requirements
-
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| CPU | Quad-core (~i5 equivalent) |
-| RAM | 8 GB | 16 GB |
-| GPU | ~GTX 1060 / RX 580 equivalent (or better) |
-| Storage | Enough free space for large land mods (TR, PC, SHOTN) — expect several GB extra |
-| Note | Performance depends heavily on location in expanded lands; shaders etc may affect framerate. |
-
----
-
 ## Installation Guide
 
 ### 1. Install or Reinstall Morrowind GOTY  
@@ -102,10 +90,7 @@ Thanks to all the mod authors whose work makes this possible, including:
 
 - **Tamriel Rebuilt, Skyrim: Home of the Nords, Province: Cyrodiil** teams  
 - **OpenMW development team**  
-- **Root Builder & OpenMW Player** plugin authors  
+- **Root Builder & OpenMW Player** plugin author  
 - All audio, animation, bugfix, and QOL mod contributors  
-- The Morrowind modding community  
-
----
-
-*Blightreign is provided free of charge. Respect the licenses of all included mods. If you use this list, you agree to the terms of the included mods and tools.*
+- The Morrowind modding community
+- My homies
