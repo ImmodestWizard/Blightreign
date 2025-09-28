@@ -2,7 +2,7 @@
 
 ![Blightreign Banner](images/banner.png)
 
-*Blightreign is my love letter to Morrowind. It keeps the game’s weird, alien world intact while adding subtle improvements, like better audio, updated visuals and small gameplay tweaks. Vanilla at heart, just a little smoother.*
+*Blightreign is my love letter to Morrowind. It keeps the game’s weird, alien world intact while adding subtle improvements, like better audio, updated visuals and small gameplay tweaks.*
 
 ---
 
@@ -18,14 +18,14 @@
 
 ## Features
 
-- Immersive soundscape and updated music to bring Vvardenfell & Solstheim more alive  
+- Immersive soundscape and expanded music 
 - Visual updates with OpenMW shaders, true to vanilla aesthetic  
-- Expanded lands: Tamriel Rebuilt, Skyrim: Home of the Nords, Province: Cyrodiil  
-- Gameplay refinements like relaxed leveling, sensible attribute-to-skill allocation, magicka regeneration  
+- Expanded lands trio: Tamriel Rebuilt, Skyrim: Home of the Nords, Province: Cyrodiil  
+- Gameplay refinements like relaxed leveling, sensible attribute/skill allocation, economy rebalance  
 - New weapons & armors that feel like they belong in Morrowind’s original style  
-- Quality-of-Life mods included for smoother gameplay  
-- Balanced visuals + performance; bug, mesh, and texture fixes  
-- First person + third person animation improvements; light voice acting for key NPCs  
+- Quality-of-Life mods 
+- Balanced visuals + performance 
+- First person + third person animation improvements
 
 ---
 
